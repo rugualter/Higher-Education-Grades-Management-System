@@ -1,0 +1,42 @@
+21002
+Algebra Linear I
+Licenciatura em Engenharia Informatica
+1
+1
+6
+2
+21173
+Introducao a Programacao
+Licenciatura em Engenharia Informatica
+1
+1
+6
+2
+21082
+Matematica Finita
+Licenciatura em Engenharia Informatica
+1
+2
+6
+2
+21093
+Progamacao por Objetos
+Licenciatura em Engenharia Informatica
+2
+1
+6
+2
+21076
+Investigacao Operacional
+Licenciatura em Engenharia Informatica
+2
+2
+6
+2
+21110
+Sistemas Multimedia
+Licenciatura em Engenharia Informatica
+3
+1
+6
+2
